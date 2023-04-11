@@ -1,5 +1,5 @@
 # MIP-LB1-ALuta
-Mākslīgā intelekta pamatu pirmais laboratorijas darbs
+# Mākslīgā intelekta pamatu pirmais laboratorijas darbs
 Šis ir pirmais laboratorijas darbs, kas ietver spēli, kas izmanto Python un Pygame bibliotēku.
 
 Kā spēlēt
